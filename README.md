@@ -6,4 +6,4 @@ Die zugrunde liegende Sammlung der Entscheidungen ist unter folgendem Link verfÃ
 
 ## Wie es funktioniert
 
-Es wird eine Datei ls_all.xlsx und eine weitere Datei (bspw. ls_all_2025.xlsx) geladen. Es werden die Unterschiede der beiden Dateien spaltenweise gefunden und in einer neuen Datei unterschiede.xlsx gespeichert.
+Mittels des Skipts vergleich.py wird eine Datei ls_all.xlsx und eine weitere Datei (bspw. ls_all_2025.xlsx) geladen. Es werden die Unterschiede der beiden Dateien spaltenweise gefunden und in einer neuen Datei unterschiede.xlsx gespeichert.
